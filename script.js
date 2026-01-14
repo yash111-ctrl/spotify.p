@@ -19,7 +19,7 @@ let isRepeat = false;
 
 
 const songs = [
-    { songName: 'Ghar Kab Aaoge', songDes: 'Anu Malik, Sonu Nigam', songImage: 'Images/1.jpg', songPath: 'Audio/1.mp3' },
+    { songName: 'Ghar Kab Aaoge', songDes: 'Anu Malik, Sonu Nigam', songImage: 'https://raw.githubusercontent.com/yash111-ctrl/spotify.p/refs/heads/main/1.jpg', songPath: 'Audio/1.mp3' },
     { songName: 'Sitaare Ikkis', songDes: 'Arijit Singh', songImage: 'Images/2.jpg', songPath: 'Audio/2.mp3' },
     { songName: 'Ishq Jalakar', songDes: 'Shashwat Sachdev', songImage: 'Images/3.jpg', songPath: 'Audio/3.mp3' },
     { songName: 'Nache Nache', songDes: 'Thaman S', songImage: 'Images/4.jpg', songPath: 'Audio/4.mp3' },
