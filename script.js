@@ -20,9 +20,9 @@ let isRepeat = false;
 
 const songs = [
     { songName: 'Ghar Kab Aaoge', songDes: 'Anu Malik, Sonu Nigam', songImage: 'https://raw.githubusercontent.com/yash111-ctrl/spotify.p/refs/heads/main/1.jpg', songPath: 'spotify.p/1.mp3' },
-    { songName: 'Sitaare Ikkis', songDes: 'Arijit Singh', songImage: 'spotify.p/2.jpg', songPath: 'Audio/2.mp3' },
-    { songName: 'Ishq Jalakar', songDes: 'Shashwat Sachdev', songImage: 'Images/3.jpg', songPath: 'Audio/3.mp3' },
-    { songName: 'Nache Nache', songDes: 'Thaman S', songImage: 'Images/4.jpg', songPath: 'Audio/4.mp3' },
+    { songName: 'Sitaare Ikkis', songDes: 'Arijit Singh', songImage: '2.jpg', songPath: 'Audio/2.mp3' },
+    { songName: 'Ishq Jalakar', songDes: 'Shashwat Sachdev', songImage: '3.jpg', songPath: 'Audio/3.mp3' },
+    { songName: 'Nache Nache', songDes: 'Thaman S', songImage: '4.jpg', songPath: 'Audio/4.mp3' },
     { songName: 'Seet Lehar', songDes: 'Seet Lehar', songImage: 'Images/5.jpg', songPath: 'Audio/5.mp3' },
     { songName: 'Darkhaast', songDes: 'Arijit Singh', songImage: 'Images/6.jpg', songPath: 'Audio/6.mp3' },
     { songName: 'Aaya Re Toofan', songDes: 'Irshad Kamil', songImage: 'Images/7.jpg', songPath: 'Audio/7.mp3' },
