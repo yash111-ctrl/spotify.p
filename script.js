@@ -19,7 +19,7 @@ let isRepeat = false;
 
 
 const songs = [
-    { songName: 'Ghar Kab Aaoge', songDes: 'Anu Malik, Sonu Nigam', songImage: 'https://raw.githubusercontent.com/yash111-ctrl/spotify.p/refs/heads/main/1.jpg' },
+    { songName: 'Ghar Kab Aaoge', songDes: 'Anu Malik, Sonu Nigam', songImage: 'https://private-user-images.githubusercontent.com/244701717/539188823-07a14ef8-ff16-475a-a3ae-2c27f3b46cac.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjkwOTMyNTcsIm5iZiI6MTc2OTA5Mjk1NywicGF0aCI6Ii8yNDQ3MDE3MTcvNTM5MTg4ODIzLTA3YTE0ZWY4LWZmMTYtNDc1YS1hM2FlLTJjMjdmM2I0NmNhYy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEyMlQxNDQyMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDg1N2YyZTY1YzM5Y2FmNjFkOWMxMzJkZDM0ZGY5NDQ1MzYxYWY0ZjQxYWQ2NGQyZWU2MTYwZjczZWQ5NDdkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.jISyeHwdGbfaqNke_qw-aJUqgIQRpxy8ECb5AzA26cI' },
     { songName: 'Sitaare Ikkis', songDes: 'Arijit Singh', songImage: 'https://github.com/yash111-ctrl/spotify.p/blob/main/2.jpg?raw=true', songPath: 'Audio/2.mp3' },
     { songName: 'Ishq Jalakar', songDes: 'Shashwat Sachdev', songImage: '3.jpg', songPath: 'Audio/3.mp3' },
     { songName: 'Nache Nache', songDes: 'Thaman S', songImage: 'spotify.p/4.jpg', songPath: 'Audio/4.mp3' },
